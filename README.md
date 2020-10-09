@@ -4,9 +4,9 @@ This is my repository link for HW9 Employee Database: A Mystery in Two Parts mat
 
 I utilized abc.
 
-A Jupyter Notebook was developed to address this challenge.
+pgAdmin 4 was utilized to address this challenge with two queries written, one to abc and the other to xyz.
 
-My overall observations as well as comments around each graph are provided in the Jupyter Notebook.
+My overall observations are provided in abc.
 
 Thank you,
 
