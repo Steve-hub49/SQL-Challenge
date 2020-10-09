@@ -1,5 +1,7 @@
 # SQL-challenge
 
+Please note: This is a WORK IN PROCESS
+
 This is my repository link for HW9 Employee Database: A Mystery in Two Parts material.
 
 I utilized abc.
