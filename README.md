@@ -1,4 +1,4 @@
-# sql-challenge
+# SQL-challenge
 
 This is my repository link for HW9 Employee Database: A Mystery in Two Parts material.
 
