@@ -1,6 +1,7 @@
 *.py
 *ipynb_checkpoints
-*config.py
+
+config.py
 
 # API keys
 api_keys.py
