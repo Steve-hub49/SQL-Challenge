@@ -1,8 +1,10 @@
 # SQL-challenge
 
-Please note: This is a WORK IN PROCESS
+This is my repository link for HW9 Employee Database: A Mystery in Two Parts material. The steps outlined below are complete and have been posted to GitHub.
 
-This is my repository link for HW9 Employee Database: A Mystery in Two Parts material.
+Thank you,
+
+Steve Freeland
 
 ## Background
 
@@ -76,7 +78,7 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 ## Submission
 
 * Create an image file of your ERD.
-
+.
 * Create a `.sql` file of your table schemata.
 
 * Create a `.sql` file of your queries.
@@ -85,8 +87,5 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 
 * Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
 
-* Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
+* Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file.
 
-Thank you,
-
-Steve Freeland 
