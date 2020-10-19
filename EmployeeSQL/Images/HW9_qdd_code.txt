@@ -10,36 +10,33 @@ dept_name VARCHAR
 dept_emp
 -
 emp_no INT FK >- employees.emp_no
-dept_no INT
-from_date DATE
-to_date DATE
+dept_no INT FK >- departments.dept_no
+
 
 employees
 -
 emp_no INT PK
+emp_title VARCHAR FK >- titles.title_id
 birth_date DATE
 first_name VARCHAR
 last_name VARCHAR
-gender VARCHAR
+sex VARCHAR
 hire_date DATE
 
 dept_manager
 -
 dept_no INT FK >- departments.dept_no
 emp_no INT FK >- employees.emp_no
-from_date DATE
-to_date DATE
+
 
 titles
 -
-emp_no INT FK >- employees.emp_no
+title_id VARCHAR PK
 title VARCHAR
-from_date DATE
-to_date DATE
+
 
 salaries
 -
-emp_no int FK >- employees.emp_no
-salary int
-from_date DATE
-to_date DATE
+emp_no INT FK >- employees.emp_no
+salary INT
+
