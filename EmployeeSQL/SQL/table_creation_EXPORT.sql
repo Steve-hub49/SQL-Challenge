@@ -6,6 +6,7 @@
 -- To reset the sample schema, replace everything with
 -- two dots ('..' - without quotes).
 
+
 CREATE TABLE "titles" (
     "title_id" VARCHAR   NOT NULL,
     "title" VARCHAR   NOT NULL,
