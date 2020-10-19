@@ -1,6 +1,10 @@
+*.py
+*ipynb_checkpoints
+
+config.py
+
 # API keys
 api_keys.py
-config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
