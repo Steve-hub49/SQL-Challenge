@@ -78,7 +78,7 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 ## Submission
 
 * Create an image file of your ERD.
-.
+
 * Create a `.sql` file of your table schemata.
 
 * Create a `.sql` file of your queries.
